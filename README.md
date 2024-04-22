@@ -20,4 +20,4 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## What have we learnt from this project?
 ## References 
-
+https://www.kaggle.com/datasets/jiantay33/singapore-used-car
