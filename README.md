@@ -12,7 +12,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Which model will be the best to do so?
   
 ## Models Used
-- Linear Regression
+- Multi-Variate Linear Regression
 - Lasso Regression
 - Random Forest Regression
 
