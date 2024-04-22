@@ -1,1 +1,1 @@
-# SC1015-Grp-2
+# Welcome to Singapore Used Car Prices Predictor repository
